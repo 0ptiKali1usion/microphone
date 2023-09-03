@@ -1,0 +1,376 @@
+From eb85131@goodnet.com Wed Apr  1 10:18:51 1998
+Status: O
+X-Status: 
+Date: Wed, 1 Apr 1998 10:18:50 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Yossie Silverman <yossie@rosewood.his.ucsf.EDU>
+Subject: Re: Hi!
+In-Reply-To: <MailDrop1.2d7j-PPC.980331163331@audry2.his.ucsf.edu>
+Message-ID: <Pine.GSO.3.95.980401095749.8759A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+On Tue, 31 Mar 1998, Yossie Silverman wrote:
+
+> I am interested in one of those waist belts but they are very expensive and I
+> bet harder and harder to actually buy.  
+
+How much is "very expensive"?
+
+> Doesn't seem like they are worth it, actually.  I suspect a
+> weight-lifting belt and a doggy gadget could indeed be joined to make
+> one.  Consider, though, that the doggy-gadget is pretty low power all
+> told. 
+
+Power is what causes damage.  Current is what you feel.  The frequency
+makes some difference too.  A good electrical contact and even a 9 volt
+(try your tongue)  battery can cause problems.  (People in to temporary
+peircings should advoid batterys!)  A Weight belt and 2 one inch size
+contacts on bare skin should be quits effective.
+
+> I also am not sure how to make the power go through clothes and the 
+> like.
+
+It is the voltage that cuts through the clothes.  5-10 K will go through
+most anything.  Some of the stun guns clame to put out 80K.  There is
+somthing to be said for men without shirts
+though.
+
+> The belt appears to get over this problem.
+
+My guess is that is a "stun gun" electronics  with a remote switch.
+Probably less electronics than your doggy-gadget.  My reading of
+the waist belts description is that once the 8-second starts there is no
+control.  This would be due to the noise level  of the high-voltage
+generation and arcing (Lots of rf noise).
+
+
+From eb85131@goodnet.com Fri Apr  3 22:48:10 1998
+Status: O
+X-Status: 
+Date: Fri, 3 Apr 1998 22:48:10 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: ltaber@red.cscwc.pima.edu, eotter@red.cscwc.pima.edu
+Subject: The US military mind.
+Message-ID: <Pine.GSO.3.95.980403224122.18984A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+This is a transcript of an ACTUAL radio conversation of a US naval ship with
+Canadian authorities off the coast of Newfondland in October 1995.  Radio
+conversation released by the Chief of Naval operations 10-10-95.
+
+Americans:  Please divert your course 15 degrees to the North to avoid a
+            collision.
+Canadians:  Recomend you divert YOUR course 15 degrees to the South to avoid
+            collision.
+Americans:  This is the Captain of a US Navy Ship. I say again, divert YOUR
+            course.
+Canadians:  No...I say again, you divert YOUR course.
+
+Americans:  THIS IS THE AIRCRAFT CARRIER USS LINCOLN, THE SECOND LARGEST SHIP
+            IN THE UNITED STATES ATLANTIC FLEET.  WE ARE ACCOMPANIED BY THREE
+            DESTROYERS, THREE CRUISERS, AND NUMEROUS SUPPORT VESSELS. I 
+            DEMAND THAT YOU CHANGE YOUR COURSE 15 DEGREES NORTH, THAT'S
+            ONE FIVE DEGREES NORTH, OR COUNTER-MEASURES WILL BE UNDERTAKEN 
+            TO ENSURE THE SAFETY OF THIS SHIP.
+Canadians:  This is a lighthouse.... your call.
+
+
+
+From eb85131@goodnet.com Sat Apr  4 23:31:50 1998
+Status: O
+X-Status: 
+Date: Sat, 4 Apr 1998 23:31:49 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+Reply-To: LOUIS TABER <eb85131@goodnet.com>
+To: Ian Thompson <ianlt@pacificrim.net>, Bob Hayn <71404.154@compuserve.com>, 
+    ltaber@red.cscwc.pima.edu
+Subject: The US Military mind
+Message-ID: <Pine.GSO.3.95.980403225247.19770B-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+This is a transcript of an ACTUAL radio conversation of a US naval ship with
+Canadian authorities off the coast of Newfondland in October 1995.  Radio
+conversation released by the Chief of Naval operations 10-10-95.
+
+Americans:  Please divert your course 15 degrees 
+            to the North to avoid a collision.
+
+Canadians:  Recomend you divert YOUR course 15 
+            degrees to the South to avoid collision.
+
+Americans:  This is the Captain of a US Navy Ship. 
+            I say again, divert YOUR course.
+
+Canadians:  No...I say again, you divert YOUR course.
+
+Americans:  THIS IS THE AIRCRAFT CARRIER USS LINCOLN, 
+            THE SECOND LARGEST SHIP IN THE UNITED STATES 
+            ATLANTIC FLEET.  WE ARE ACCOMPANIED BY THREE 
+            DESTROYERS, THREE CRUISERS, AND NUMEROUS 
+            SUPPORT VESSELS.  I DEMAND THAT YOU CHANGE 
+            YOUR COURSE 15 DEGREES NORTH, THAT'S ONE 
+            FIVE DEGREES NORTH, OR COUNTER-MEASURES WILL 
+            BE UNDERTAKEN TO ENSURE THE SAFETY OF THIS SHIP.
+
+Canadians:  This is a lighthouse.... your call.
+
+
+
+From eb85131@goodnet.com Sun Apr  5 21:44:32 1998
+Status: O
+X-Status: 
+Date: Sun, 5 Apr 1998 21:44:31 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: cdooling@west.pima.edu
+Subject: DNS
+Message-ID: <Pine.GSO.3.95.980405213554.6306A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Cindy,
+
+The address information for red does not seem to have made it 
+past west.  BIND needs to have a version number set for it to update 
+other servers.  Does the DNS server for VMS have a similar concept?
+Anyway, please see if you can get the information to propagate.  
+red is basicly down until it is in the name server system.
+
+As of 9:30 Sunday:
+
+Server:  zul.dco.pima.edu
+Address:  144.90.128.4    Non-authoritative answer:
+                          Name:    red.cscwc.pima.edu
+                          Address:  144.90.64.3            Wrong
+
+Server:  max.dco.pima.edu
+Address:  144.90.128.2    Name:    red.cscwc.pima.edu
+                          Address:  144.90.64.3            Wrong
+
+Server:  west.pima.edu
+Address:  144.90.64.14    Name:    red.cscwc.pima.edu
+                          Address:  144.90.66.3            OK
+
+Server:  Hopey.Telcom.Arizona.EDU
+Address:  128.196.128.234 Name:    red.cscwc.pima.edu
+                          Address:  144.90.64.3            Wrong
+
+
+  - Louis
+
+
+From eb85131@goodnet.com Sun Apr  5 21:59:45 1998
+Status: O
+X-Status: 
+Date: Sun, 5 Apr 1998 21:59:44 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Ian Thompson <Ianlt@pacificrim.net>
+Subject: Hi, 
+In-Reply-To: <352838DF.D3E26795@pacificrim.net>
+Message-ID: <Pine.GSO.3.95.980405215027.7003A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Ian,
+
+I hve been getting some play in.  -- by myself.  Which is OK,
+Sometimes I think it would be safer with someone else around.
+I have been playing with a Stokes? (basket) stretcher.  It
+has lots of places to tie down people.  I just haven't figured out
+how to tie down my arms along with the rest of my body.  Oh well.
+The HR straps work well for the wrists!
+
+Any word from TK?  I expect you may be as upset by it as me.
+I would like to be able to help.  But if he doesn't call or write
+there is little I can do.  I am still VERY glad for the times
+we had together and the friendship.  I hope some day he will get 
+in touch.
+
+Plan to be in SF for a week in August.  Hope all is well.  Call some time.
+(520) 327-4133.  [Befor 9:30 our time.] Or let me know when 
+I might reach you. - Louis 
+ 
+
+
+From eb85131@goodnet.com Mon Apr  6 22:55:14 1998
+Status: O
+X-Status: 
+Date: Mon, 6 Apr 1998 22:55:13 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Stephen Taber <staber@kachina.net>
+Subject: Re: Y2K
+In-Reply-To: <35297DC9.97C10D67@kachina.net>
+Message-ID: <Pine.GSO.3.95.980406225448.8769A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+On Mon, 6 Apr 1998, Stephen Taber wrote:
+
+> The more I learn about this the more it looks like it might become a
+> serious problem.
+
+It is keeping the lawyers happy.  - Louis
+
+
+From eb85131@goodnet.com Wed Apr 15 09:46:16 1998
+Status: O
+X-Status: 
+Date: Wed, 15 Apr 1998 09:46:13 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: prisonguy@os2rus.com
+Subject: Re: Job search over
+In-Reply-To: <199804101603.MAA065.92@sneakers.os2rus.com>
+Message-ID: <Pine.GSO.3.95.980415094140.29608A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+On Fri, 10 Apr 1998 prisonguy@os2rus.com wrote:
+
+> Hi!  The job search is over. .....
+GREAT!
+
+> After much consideration and some reservations, I decided on the Oracle
+> position because of the amount of education promised and possibilities
+> it opens up in the future.  Oracle does not pay anywhere as well as
+> Gateway (15-17% difference in pay after cost of living, BTW). 
+You are right, money is not everything!
+
+> Yet, pay isn't everything.  While the Oracle job is in Colorado Springs,
+It is close to Denver, which isn't too bad.
+
+> I don't know when the move will occur.  I'm hoping it will be before the
+> end of the month.  One mover thinks he can do it the week of 4/20 and
+> another 4/27.  Time will tell the tale. 
+Not much time.  Hope it goes well.    
+ 
+> Until then I'll be available via phone (512/260-0513) or E-mail. 
+Do IP masqurading and get a single fixed IP address.  It should work just
+as well for most things.  (And a lot cheaper.)
+
+Good luck with your move.  - Louis
+
+
+From eb85131@goodnet.com Wed Apr 15 09:49:24 1998
+Status: O
+X-Status: 
+Date: Wed, 15 Apr 1998 09:49:23 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Stephen Taber <staber@kachina.net>
+Subject: Re: Ruined floppies
+In-Reply-To: <352FEE68.20884910@kachina.net>
+Message-ID: <Pine.GSO.3.95.980415094700.29608B-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+On Sat, 11 Apr 1998, Stephen Taber wrote:
+
+> Hi. Windy today. Got a question for you that you don't know the answer
+> maybe. i got three disks that dont work right anymore. They have all
+> been with me on travels. My thoughts were that the metal detector
+> machines might damage the data but not the disk. any Ideas?  -SLT
+
+The metal detectors can disrupt the data - (But not all of them).
+For PC systems the format command checks on the disk first.  So it
+does quite a bit more than just a format.  Try taking a magnet to
+the disk to wipe out any and all formatting, then try again.  - Louis
+
+
+From eb85131@goodnet.com Wed Apr 15 09:59:36 1998
+Status: O
+X-Status: 
+Date: Wed, 15 Apr 1998 09:59:35 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Cia <cia@electrastar.com>
+Subject: Hi.
+In-Reply-To: <v0310280eb0e950da05ba@[169.197.62.251]>
+Message-ID: <Pine.GSO.3.95.980415095138.29608C-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Cia,
+
+How is the house working out.  Did they squat on you, or move
+out on "time"?  Moving is always a hassel.  (Though I haven't done it
+in about 14 years now, and that move was only about 2 miles.)
+
+When your schedule looks free, give me a call.  327-4133 Home, 206-6039
+Work.  I would like to get together again.  I guess I can show up on
+Sundays too.  This Sunday is a TFUG meeting.  - Louis
+
+
+From eb85131@goodnet.com Thu Apr 16 22:58:44 1998
+Status: O
+X-Status: 
+Date: Thu, 16 Apr 1998 22:58:43 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Cia <cia@azstarnet.com>
+Subject: Re: greetings and hallucinations  ;)
+In-Reply-To: <v03102803b15a9cc539d2@[169.197.62.244]>
+Message-ID: <Pine.GSO.3.95.980416225620.11557A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+On Wed, 15 Apr 1998, Cia wrote:
+
+> What time is TFUG?
+
+6:00pm - 9ish.  It looks like I am not going to make it to TFUG though. 
+The family is going to a play that night at the Temple of Music and Art. 
+  - Louis
+
+
+
+From eb85131@goodnet.com Fri Apr 17 23:56:41 1998
+Status: O
+X-Status: 
+Date: Fri, 17 Apr 1998 23:56:40 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Seattle FilmWorks <sfwmktg4@filmworks.com>
+Subject: Yes
+In-Reply-To: <B0004089748@seattle.filmworks.com>
+Message-ID: <Pine.GSO.3.95.980417235629.4081A-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+
+From eb85131@goodnet.com Fri Apr 17 23:58:22 1998
+Status: O
+X-Status: 
+Date: Fri, 17 Apr 1998 23:58:21 -0700 (MST)
+From: LOUIS TABER <eb85131@goodnet.com>
+X-Sender: eb85131@goodguy
+To: Seattle FilmWorks <sfwmktg4@filmworks.com>
+Subject: Yes
+In-Reply-To: <B0004089748@seattle.filmworks.com>
+Message-ID: <Pine.GSO.3.95.980417235721.4081B-100000@goodguy>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+No email please.
+
+> Please update any changes to your account:
+> Cust.No.: 26835718
+> Name: Louis Taber
+> Address: 1403 N Jones Blvd
+> City, State, Zip: Tucson, AZ 85716
+> Phone:
+> Email: eb85131@goodnet.com
+> 
+
+

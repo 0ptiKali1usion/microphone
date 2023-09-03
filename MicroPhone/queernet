@@ -1,0 +1,83 @@
+From Majordomo-Owner@QueerNet.ORG Thu Mar 20 18:52 MST 1997
+X-UIDL: 274d0a4baeca4db1ce1c835ed0a565c7
+Received: from mailque.goodnet.com (mailque.goodnet.com [207.98.129.4]) by goodguy.goodnet.com (8.8.5/8.8.5) with ESMTP id SAA08323 for <eb85131@goodnet.com>; Thu, 20 Mar 1997 18:52:22 -0700 (MST)
+Received: from queernet.queernet.org (listserv@queernet.queernet.org [140.174.78.69]) by mailque.goodnet.com (8.8.5/8.7.3) with ESMTP id SAA19190 for <eb85131@goodnet.com>; Thu, 20 Mar 1997 18:48:14 -0700 (MST)
+Received: (from listserv@localhost) by queernet.queernet.org (8.8.5/8.8.2) id RAA28328
+Date: Thu, 20 Mar 1997 17:45:06 -0800 (PST)
+Message-Id: <199703210145.RAA28328@queernet.queernet.org>
+To: eb85131@goodnet.com
+From: Majordomo@QueerNet.ORG
+Subject: Confirmation for subscribe gl-asb
+Reply-To: Majordomo@QueerNet.ORG
+Content-Type: text
+Content-Length: 766
+Status: RO
+X-Status: A
+
+--
+
+Someone (possibly you) has requested that your email address be added
+to or deleted from the mailing list "gl-asb@QueerNet.ORG".
+
+If you really want this action to be taken, please send the following
+commands (exactly as shown) back to "Majordomo@QueerNet.ORG":
+
+	auth 4f408142 subscribe gl-asb eb85131@goodnet.com
+
+If you do not want this action to be taken, simply ignore this message
+and the request will be disregarded.
+
+If your mailer will not allow you to send the entire command as a single
+line, you may split it using backslashes, like so:
+
+        auth 4f408142 subscribe gl-asb \
+        eb85131@goodnet.com
+
+If you have any questions about the policy of the list owner, please
+contact "gl-asb-approval@QueerNet.ORG".
+
+Thanks!
+
+Majordomo@QueerNet.ORG
+
+From Majordomo-Owner@QueerNet.ORG Sun Mar 23 16:57 MST 1997
+Received: from mailque.goodnet.com (mailque.goodnet.com [207.98.129.4]) by goodguy.goodnet.com (8.8.5/8.8.5) with ESMTP id QAA27491 for <eb85131@goodnet.com>; Sun, 23 Mar 1997 16:57:13 -0700 (MST)
+Received: from queernet.queernet.org (listserv@queernet.queernet.org [140.174.78.69]) by mailque.goodnet.com (8.8.5/8.7.3) with ESMTP id QAA09436 for <eb85131@goodnet.com>; Sun, 23 Mar 1997 16:50:15 -0700 (MST)
+Received: (from listserv@localhost) by queernet.queernet.org (8.8.5/8.8.2) id PAA06981
+Date: Sun, 23 Mar 1997 15:47:08 -0800 (PST)
+Message-Id: <199703232347.PAA06981@queernet.queernet.org>
+To: eb85131@goodnet.com
+From: Majordomo@QueerNet.ORG
+Subject: Confirmation for subscribe gl-subs
+Reply-To: Majordomo@QueerNet.ORG
+Content-Type: text
+Content-Length: 770
+Status: RO
+X-Status: A
+
+--
+
+Someone (possibly you) has requested that your email address be added
+to or deleted from the mailing list "gl-subs@QueerNet.ORG".
+
+If you really want this action to be taken, please send the following
+commands (exactly as shown) back to "Majordomo@QueerNet.ORG":
+
+	auth 10587a88 subscribe gl-subs eb85131@goodnet.com
+
+If you do not want this action to be taken, simply ignore this message
+and the request will be disregarded.
+
+If your mailer will not allow you to send the entire command as a single
+line, you may split it using backslashes, like so:
+
+        auth 10587a88 subscribe gl-subs \
+        eb85131@goodnet.com
+
+If you have any questions about the policy of the list owner, please
+contact "gl-subs-approval@QueerNet.ORG".
+
+Thanks!
+
+Majordomo@QueerNet.ORG
+

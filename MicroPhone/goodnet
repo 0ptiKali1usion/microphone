@@ -1,0 +1,198 @@
+From support@goodnet.com Mon Feb 24 03:28 MST 1997
+Received: (root@localhost) by goodguy.goodnet.com (8.8.5/8.8.5) id DAA29703 for eb85131@goodnet.com; Mon, 24 Feb 1997 03:28:15 -0700 (MST)
+Date: Mon, 24 Feb 1997 03:28:15 -0700 (MST)
+From: GoodNet Support <support@goodnet.com>
+Message-Id: <199702241028.DAA29703@goodguy.goodnet.com>
+To: eb85131@goodnet.com
+Subject: Customer update for February 24th
+Content-Type: text
+Content-Length: 6824
+Status: RO
+X-Status: 
+
+Dear customers,
+ 
+To improve the quality of our service we are implementing a few
+changes to our internal systems.  We are adding additional servers to
+help balance the load of our network.  To aid you in the transition we
+are including instructions for GoodNet, Netzone, and C2I2 customers.
+
+
+GoodNet Customers -
+
+Currently all Goodnet customers are using mail.goodnet.com as their
+SMTP and POP3 servers in your mail programs.
+
+To speed up the service of sending mail from your computer to us, we
+have added a new server smtp.goodnet.com, and to improve the
+performance of when you are picking up mail we have added
+pop.goodnet.com.
+
+The following paragraphs explain how to setup the more popular mail
+clients to use these new servers.
+ 
+*******************************************************************
+Eudora -
+
+The only items that need to be changed in Eudora are...
+1.) The pop Account setting
+2.) The smtp server setting
+
+Depending on your version of Eudora, it will vary where to change
+this information.
+
+(the newer versions) The change will be under TOOLS, then
+OPTIONS, then HOSTS, in the space that reads "POP account" change
+"your-username@mail.goodnet.com" to
+"your-username@pop.goodnet.com".  Then for "SMTP" change
+"mail.goodnet.com" to "smtp.goodnet.com". 
+ 
+(older versions) The change will be under SPECIAL, then
+CONFIGURATION or SETUP, in the space that reads "POP account"
+change "your-username@mail.goodnet.com" to
+"your-username@pop.goodnet.com".  Then for "SMTP server" change
+"mail.goodnet.com" to "smtp.goodnet.com". 
+
+*******************************************************************
+Internet Mail -
+
+Go to MAIL, then OPTION, then SERVERS, in the
+space for "Outgoing Mail (SMTP)" replace mail.goodnet.com with 
+smtp.goodnet.com.  "Incoming Mail (POP3)" should be changed from 
+mail.goodnet.com to pop.goodnet.com.
+
+*******************************************************************
+Pegasus -
+
+Go to FILE, then NETWORK CONFIGURATION, change the
+information in the POP3 field from "mail.goodnet.com" to 
+"pop.goodnet.com", and the SMTP host from 
+"mail.goodnet.com" to "smtp.goodnet.com"
+
+*******************************************************************
+Other configs -
+
+Just a reminder that the current DNS numbers are 207.98.129.11 for 
+the primary and 207.98.129.12 for the secondary. 
+
+*******************************************************************
+*******************************************************************
+Netzone Customers -
+
+Currently all Netzone customers should be using 
+mail.netzone.com as their SMTP and POP3 servers.
+To speed up the service of outgoing mail we have added 
+smtp.netzone.com, and to improve incoming mail we have added 
+pop.netzone.com.  The following paragraphs explain how to setup 
+the more popular mail clients to use these new servers.
+
+*******************************************************************
+Eudora -
+
+The only items that need to be changed in Eudora are...
+1.) The pop Account setting
+2.) The smtp server setting
+
+Depending on your version of Eudora, it will vary where to change
+this information.
+
+(the newer versions) The change will be under TOOLS, then
+OPTIONS, then HOSTS, in the space that reads "POP account" change
+"your-username@mail.netzone.com" to
+"your-username@pop.netzone.com".  Then for "SMTP" change
+"mail.netzone.com" to "smtp.netzone.com". 
+
+(older versions) The change will be under SPECIAL, then
+CONFIGURATION or SETUP, in the space that reads "POP account"
+change "your-username@mail.netzone.com" to
+"your-username@pop.netzone.com".  Then for "SMTP server" change
+"mail.netzone.com" to "smtp.netzone.com". 
+
+*******************************************************************
+Internet Mail -
+
+Go to MAIL, then OPTION, then SERVERS, in the
+space for "Outgoing Mail (SMTP)" replace mail.netzone.com with 
+smtp.netzone.com.  "Incoming Mail (POP3)" should be changed from 
+mail.netzone.com to pop.netzone.com.
+
+*******************************************************************
+Pegasus -
+
+Go to FILE, then NETWORK CONFIGURATION, change the
+information in the POP3 field from "mail.netzone.com" to 
+"pop.netzone.com", and the SMTP host from 
+"mail.netzone.com" to "smtp.netzone.com"
+
+*******************************************************************
+Other configs -
+
+Just a reminder that the current DNS numbers are 207.98.129.11 for 
+the primary and 207.98.129.12 for the secondary. 
+
+*******************************************************************
+*******************************************************************
+C2I2 Customers -
+
+Currently all C2I2 customers should be using 
+mail.c2i2.com as their SMTP and POP3 servers.
+To speed up the service of outgoing mail we have added 
+smtp.c2i2.com, and to improve incoming mail we have added 
+pop.c2i2.com.  The following paragraphs explain how to setup 
+the more popular mail clients to use these new servers.
+
+*******************************************************************
+Eudora -
+
+The only items that need to be changed in Eudora are...
+1.) The pop Account setting
+2.) The smtp server setting
+
+Depending on your version of Eudora, it will vary where to change
+this information.
+
+(the newer versions) The change will be under TOOLS, then
+OPTIONS, then HOSTS, in the space that reads "POP account" change
+"your-username@mail.c2i2.com" to
+"your-username@pop.c2i2.com".  Then for "SMTP" change
+"mail.c2i2.com" to "smtp.c2i2.com". 
+
+(older versions) The change will be under SPECIAL, then
+CONFIGURATION or SETUP, in the space that reads "POP account"
+change "your-username@mail.c2i2.com" to
+"your-username@pop.c2i2.com".  Then for "SMTP server" change
+"mail.c2i2.com" to "smtp.c2i2.com". 
+
+*******************************************************************
+Internet Mail -
+
+Go to MAIL, then OPTION, then SERVERS, in the
+space for "Outgoing Mail (SMTP)" replace mail.c2i2.com with 
+smtp.c2i2.com.  "Incoming Mail (POP3)" should be changed from 
+mail.c2i2.com to pop.c2i2.com.
+
+*******************************************************************
+Pegasus -
+
+Go to FILE, then NETWORK CONFIGURATION, change the
+information in the POP3 field from "mail.c2i2.com" to 
+"pop.c2i2.com", and the SMTP host from 
+"mail.c2i2.com" to "smtp.c2i2.com"
+
+*******************************************************************
+Other configs -
+
+Just a reminder that the current DNS numbers are 207.98.129.11 for 
+the primary and 207.98.129.12 for the secondary. 
+
+*******************************************************************
+*******************************************************************
+
+Those are just a few of the common email programs, if you need
+further assistance please call our Technical Support line at
+602-264-9300.   Our Technicians are here Monday through Friday
+8am-Midnight, Saturdays and Sunday 9am-6pm. 
+
+Thank you 
+-Goodnet Staff and Management
+

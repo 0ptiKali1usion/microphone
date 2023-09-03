@@ -1,0 +1,166 @@
+\documentclass[12pt]{article}
+\pagestyle{headings}
+\setlength{\topskip}{0.5in}
+\setlength{\oddsidemargin}{0pt}
+\setlength{\evensidemargin}{0pt}
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{8.5in}
+%
+%
+%
+\newcommand{\answerbox}{\fbox{\rule{0in}{.3in}\rule{3.5in}{0in}}}
+\newcommand{\gradebox}{\fbox{\rule{0in}{.2in}\rule{.2in}{0in}}}
+\newcommand{\signbox}{\fbox{\rule{0in}{.2in}\rule{2.5in}{0in}}}
+\newcommand{\answera}{\vbox{\vskip 0.45in plus .25in minus .1in}}
+\newcommand{\answerA}{\\ \vbox{\vskip 0.35in plus .25in minus .1in}}
+\newcommand{\answerB}{\\ \vbox{\vskip 0.50in plus .25in minus .1in}}
+\newcommand{\answerC}{\\ \vbox{\vskip 0.75in plus .25in minus .1in}}
+\newcommand{\answerD}{\\ \vbox{\vskip 1.00in plus .25in minus .1in}}
+\newcommand{\answerE}{\\ \vbox{\vskip 1.25in plus .25in minus .1in}}
+\newcommand{\answerF}{\\ \vbox{\vskip 1.50in plus .25in minus .1in}}
+\newcommand{\answerG}{\\ \vbox{\vskip 1.75in plus .25in minus .1in}}
+\newcommand{\answerH}{\\ \vbox{\vskip 2.00in plus .25in minus .1in}}
+\newcommand{\answerI}{\\ \vbox{\vskip 2.50in plus .25in minus .1in}}
+%
+%
+\parindent=0pt
+\parskip=12pt plus2pt minus 1pt
+%
+%
+\newlength{\defaultparindent}
+\setlength{\defaultparindent}{\parindent}
+%
+ 
+\begin{document}
+\markright{UNIX Final Exam --- \pageref{page:last} pages}
+{\bf Name} (2pts):  \answerbox\ {\bf print}\hfil
+
+Louis Taber --- BUS R5I\\
+Introduction to UNIX Operations\\ 
+{\bf OPEN BOOK --- OPEN NOTES --- Calculator OK}
+
+If the grade that I have earned in this class is lower than a \gradebox\
+please submit a grade of ``Y'' for me.
+Signed: \signbox\hfil
+%
+%
+\begin{enumerate}
+\item  6pts.  What advantages does UNIX offer over other operating systems?
+\answerD
+\item  3pts.  Describe the man command.
+\answerC
+\item  3pts.  Give an example showing the usage of the man command.
+\answerA
+\item  2pts.  How can you find out who is logged on to the system you are using?
+\answerA
+\item  2pts.  How can you find out if the user(s) are idle?
+\answerA
+\item  3pts.  What is a regular expression?
+\answerC
+\item  6pts.  List 4 UNIX programs that use regular expressions.  
+              Give an example using one of the programs.
+\answerC
+\item  4pts.  What shell regular expression would match 
+              the following file names:\\
+              bin01.23, bin01.24, bin01.25\\
+              but not these:\\
+              bin01.22, bin01.26, bin01.27, etc01.25, bin02.23, bin01.256?
+\answerA
+\item  4pts.  If you wanted to match an asterisk with a regular expression, how
+              would you do this?
+\answerA
+\item  6pts.  Describe the differences between regular expressions and extended
+              regular expressions.
+\answerB
+\item  2pts.  What is meant by the term pipe?
+\answerC
+\item  3pts.  Give an example using a pipe.
+\answerA
+\item  3pts.  What is redirection?
+\answerC
+\item  4pts.  Write a script file that uses redirection 
+              to {\bf append} the current path
+              and today's date to the file /etc/log.
+\answerB
+\item  5pts.  What command syntax would be used to create a background process,
+              allowing the user to continue working on other tasks?
+\answerA
+\item  8pts.  What steps are necessary to add a new user to a 
+              UNIX system (without using a system management script) ?
+\answerD
+\item  6pts.  Passwords are the primary security mechanism of 
+              most UNIX systems.  What suggestions could users 
+              be given for selecting passwords to enhance system security?
+\answerC
+\item  4pts.  How can the system administrator verify 
+              that the users have secure passwords?
+\answerC
+\item  6pts.  What other security concerns exist on UNIX systems?
+\answerC
+\item  2pts.   How do you print a file on a UNIX system?
+\answerC
+\item  4pts.  What do grave accents or back quotes 
+              (near the ``one key'' on most keyboards) do in a issued command?
+\answerC
+\item  4pts.  Give an example that uses grave accents --- ` --- 
+              that sets the script variable WORDS to the 
+              number of words in the file ``count.this''.
+\answerC
+\item . 3pts. Send to the ``standard output'' the 
+              value in the variable WORDS.
+\answerC
+\item  4pts.  How do you create the file name.txt with  
+              a text editor with only your 
+              name in it.  State which editor and describe how you
+              exit the editor and save the file to the disk.
+\answerC
+\item  6pts.  Why is ``C'' important in the UNIX environment? (And what is it?)
+\answerC
+\item  4pts.  What command could be used to find the 
+              occurrences of two adjacent colons ``::'' in 
+              the file /etc/passwd.  This could be used to look for users
+              without passwords.
+\answerC
+\item  3pts.  How do you determine the protection of 
+              ALL of the files, including hidden files, 
+              in your current directory?
+\answerA
+\item  3pts.  What does the cd command do if it is issued 
+              without any arguments.
+\answerA
+\item  4pts.  Why is it important to log off a 
+              system when you are finished using it?
+\answerD
+\item  3pts.  What UNIX command(s) can be used to display the 
+              contents of a file?
+              (p.s.  The ``file'' command can be used 
+              first to find out if the file is ASCII!)
+\answerC
+\item  4pts.  Write an sed program to replace all occurrences of ``abc'' 
+              in a file with
+              ``ABC''.
+\answerC
+\item  5pts.  Write a shell script that prints out the name of the
+              system and the current number of users.
+\answerF
+\item  3pts.  How do you log on to a UNIX system?
+\answerA
+\item  4pts.  How do you log off to a UNIX system with stopped jobs?
+\answerA
+\item  5pts.  What is a shell?  List at least 4 shells.
+\answerC
+\item  3pts.  What is a shell script?
+\answerC
+\item  4pts.  What is the recommended first line in a ``csh'' 
+              or ``tcsh'' shell script?  Why?
+\answerC
+\item  5pts.  Describe Internet (with hopefully less than 30 words).
+\answerD
+\item  3pts.  Describe the use of history when using the C or TCSH shell.
+\answerC
+\item  3pts.  Describe the use of file name completion 
+              when using the C or TCSH shell.
+\answerC
+\label{page:last}
+\end{enumerate}
+\end{document}
